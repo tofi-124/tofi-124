@@ -19,7 +19,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - 👨🏽‍💻 I’m full stack web dveloper
 - 🌱 I’m currently open for role as a full-stack web developer. 
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in full stack web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [tofik.a.moh1999@gmail.com](mailto:tofik.a.moh1999@gmail.com).
 
