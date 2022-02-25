@@ -50,7 +50,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=tofi-124&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Tofik's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofi-124&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofi-124t&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofi-124&count_private=true&theme=radical" alt="Jas-Script" />
 
 ----
 Credit: [Tofi-124](https://github.com/Tofi-124)
