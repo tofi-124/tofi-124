@@ -12,7 +12,7 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
-### [Click Here for to checkout my personal static website/portfolio](https://agile-sea-54288.herokuapp.com)
+- [Click Here for to checkout my personal static website/portfolio](https://agile-sea-54288.herokuapp.com)
  
  
 
