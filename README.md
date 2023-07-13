@@ -20,7 +20,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m full stack web dveloper+
+- 👨🏽‍💻 I’m full stack web dveloper.
 - 🤔 My interest lies in full stack development.
 - 📫 Email me at [tofik.a.moh1999@gmail.com](mailto:tofik.a.moh1999@gmail.com).
 
