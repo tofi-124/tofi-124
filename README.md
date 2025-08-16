@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/tofik-mohammed-700289189/">
   <img align="left" alt="Tofik's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/tofik_prv/">
-  <img align="left" alt="Tofik's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br />
 <br />
